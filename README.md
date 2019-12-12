@@ -1,2 +1,8 @@
-# portfolio
-Portfolio of projects done in school during the semester of Fall 2019
+#portfolio
+
+Zach Wrights Portfolio as of Dec 2019
+
+Typing Game Website:
+https://zachsdomain.000webhostapp.com/index.php
+
+Egyption Corkscrew(CS3750-GroupAssignment) Website is down
