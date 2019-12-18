@@ -1,0 +1,8 @@
+[submodule "TypingGame"]
+	path = TypingGame
+	url = https://github.com/ZmanElete/TypingGame.git
+	branch = master
+[submodule "CS3750-GroupAssignment"]
+	path = CS3750-GroupAssignment
+	url = https://github.com/ZmanElete/CS3750-GroupAssignment.git
+	branch = master
